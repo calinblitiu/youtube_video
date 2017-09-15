@@ -1,0 +1,31 @@
+<div id="list_menu">
+	<div id="list_mode">
+		{$lang_display}: &nbsp;
+		<a href="#" onclick="setDisplay('list'); return false;" id="button_list">{$lang_list_view}</a> | 
+		<a href="#" onclick="setDisplay('grid'); return false;" id="button_grid">{$lang_grid_view}</a>
+	</div>
+	{if $showOrder}
+	<div id="list_orderby">
+		{$lang_order_by}: &nbsp;
+		{foreach from=$options_sort_by key=idx_key item=idx_option}
+			<a {if $orderby == $idx_option.key}class="selected"{/if} href="{if $cid}categories/{else}tag/{/if}{$keyword|seotitle}/{if $cid}{$cid}/{/if}orderby-{$idx_option.key}/page1.html">{$idx_option.desc}</a>
+				{if $idx_key != (($options_sort_by|@count)-1)} |{/if}
+		{/foreach}
+	</div>
+	{elseif $showTime}
+	<div id="list_time">
+		{$lang_time}: &nbsp;
+		{if $time}
+		<a {if $time == "today"}class="selected"{/if} href="feed/time-today/{$feed_id}.html">{$lang_today}</a> |
+		<a {if $time == "this_week"}class="selected"{/if} href="feed/time-this_week/{$feed_id}.html">{$lang_this_week}</a> |
+		<a {if $time == "this_month"}class="selected"{/if} href="feed/time-this_month/{$feed_id}.html">{$lang_this_month}</a> |
+		<a {if $time == "all_time"}class="selected"{/if} href="feed/time-all_time/{$feed_id}.html">{$lang_all_time}</a>
+		{else}
+			{$feed_title}
+		{/if}
+	</div>
+	{else}
+		{if $total > 0 && $curr_page != ""} <div id="list_paging">{$lang_page}: {$curr_page} {$lang_of} {$total}</div>{/if}
+	{/if}
+	<div class="clear"></div>
+</div>

@@ -1,0 +1,3 @@
+In Mercurial, you cannot add empty directories
+This dummy file is a workaround
+http://mercurial.selenic.com/wiki/MarkEmptyDirs

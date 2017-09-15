@@ -1,0 +1,36 @@
+{section loop=$comments name=j}
+{if $smarty.section.j.index is even}
+<div class="comm2"> 
+	<span class="comm2Top">
+		<span class="comm2Bg">
+			<span class="image">
+				<img src="{$comments[j].avatar}" width="80" height="80" />
+			</span>
+			<span class="text">
+				{$lang_on} {$comments[j].published|date_format}<br />
+				<span style="color:#05719F"><a href="{$comments[j].author_url}" title="{$comments[j].author.0.name}">{$comments[j].author.0.name}</a></span> {$lang_says}:<br />
+				{$comments[j].content}
+			</span>
+		</span>
+	</span>
+</div>
+{else}
+<div class="comm"> 
+	<span class="commTop">
+		<span class="commBg">
+			<span class="image">
+			<img src="{$comments[j].avatar}" width="80" height="80" />
+			</span>
+		<span class="text">
+			{$lang_on} {$comments[j].published|date_format}<br />
+			<span style="color:#05719F"><a href="{$comments[j].author_url}" title="{$comments[j].author.0.name}">{$comments[j].author.0.name}</a></span> {$lang_says}:<br />
+			{$comments[j].content}
+			</span>
+		</span>
+	</span>
+</div>
+{/if}
+
+
+
+{/section}

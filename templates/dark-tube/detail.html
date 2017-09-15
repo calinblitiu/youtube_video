@@ -1,0 +1,70 @@
+{include file="header.html" title_page="$title $lang_videos" title_inner="$title"}
+<div class="above_video_ads" style="margin-bottom:8px;">
+  <center>{$above_video_ads}</center>
+  </div>
+<div class="video_player" id="mediaspace"><a href="http://www.macromedia.com/go/getflashplayer">{$lang_get_flash_player}</a> {$lang_to_see_video}</div>
+
+{include file="html/player.detail.html"}
+<div id="list_menu">
+	<div id="list_mode">
+		* {$lang_hd_format_no_available}
+	</div>
+	<div id="list_orderby">
+		{$lang_play_in}: &nbsp;
+		<a href="video/{$id}/{$title|seotitle}.html" {if $fmt==""}class="selected"{/if}>{$lang_low_quality}</a> | 
+		<a href="video-fmt18/{$id}/{$title|seotitle}.html" {if $fmt=="18"}class="selected"{/if}>{$lang_high_quality}</a> |
+		<a href="video-fmt22/{$id}/{$title|seotitle}.html" {if $fmt=="22"}class="selected"{/if}>{$lang_hd_quality}</a>*
+	</div>
+</div>
+
+{if $relatedVideosPosition == "middle"}
+<div id="related_videos">
+	<div id="relatedVideos"></div>
+</div>
+<script type="text/javascript">
+	setTimeout('ajaxGet(\'ajax/related.php?vid={$id}&p=\', \'relatedVideos\', \'1\', \'relatedVideos\');',1500);
+</script>
+
+{/if}
+
+{include file="box.addthis.html"}
+
+<center>{$below_video_ads}</center>
+
+{if $facebook_comments == true}
+<center>
+<div>
+	<h2>{$lang_facebook_comment}</h2>
+	<div id="fb-root"></div>
+	<script src="http://connect.facebook.net/en_US/all.js#xfbml=1&appId={$facebook_app_id}"></script>
+	<fb:comments href="{$permalink}" num_posts="10" width="590" colorscheme="dark"></fb:comments>
+</div>
+<div class="clearboth"></div>
+</center>
+{/if}
+
+{if $local_comments_enabled || $youtube_comments_enabled}
+<div id="detail_stat">
+<div id="comments">
+	<!-- google_ad_section_start -->
+	{if $local_comments_enabled}
+	<h3>{$lang_post_a_comment}</h3>
+	{include file="box.comment_post.html"}
+
+	<h3>{$lang_local_comments} (<em id="comments_count2">{$totalLocalComments}</em>)</h3>
+	{include file="box.comments_local.html"}
+
+	{/if}
+
+	{if $youtube_comments_enabled}
+	<h3>{$lang_youtube_comments} ({$totalYoutubeComments})</h3>
+		{include file="box.comments.html"}
+	{/if}
+	<!-- google_ad_section_end -->
+</div>
+</div>
+{/if}
+
+
+
+{include file="footer.html"}

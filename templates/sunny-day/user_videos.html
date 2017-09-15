@@ -1,0 +1,122 @@
+{include file="header.html" title_page="$title :: $lang_videos" title_inner="$title :: $lang_videos"}
+{assign var='showDescription' value=false}
+
+<div class="leftContent">
+
+ <div id="profile">
+
+  <div id="profile_c1">
+  <p><span>{$lang_join}:</span> {$join_date|date_format}</p>
+  {if $name}
+    <p><span>{$lang_name}:</span> {$name}</p>
+  {/if}
+  {if $gender}
+    <p><span>{$lang_gender}:</span> {$gender}</p>
+  {/if}
+  {if $hometown}
+    <p><span>{$lang_hometown}:</span> {$hometown}</p>
+  {/if}
+  {if $location}
+    <p><span>{$lang_location}:</span> {$location}</p>
+  {/if}
+  </div>
+
+  <div id="profile_c2">
+  <p><span>{$lang_videos_watched}:</span> {$view_watch_count}</p>
+  <p><span>{$lang_subscribers}:</span> {$subscriber_count}</p>
+  <p><span>{$lang_channel_views}:</span> {$view_count}</p>
+  </div>
+
+<div style="clear:both;"></div>
+  
+  {if $books}
+    <p><span>{$lang_books}:</span> {$books}</p>
+  {/if}
+  {if $movies}
+    <p><span>{$lang_movies}:</span> {$movies}</p>
+  {/if}
+  {if $music}
+    <p><span>{$lang_music}:</span> {$music}</p>
+  {/if}
+  {if $hobbies}
+    <p><span>{$lang_hobbies}:</span> {$hobbies}</p>
+  {/if}
+  
+  {$description}
+<div class="clear"></div>
+</div>
+
+<div id="user_menu">
+  <ul>
+    <li><a href="profile/{$username}/">{$lang_profile}</a></li>
+    <li><a href="profile/{$username}/videos/" class="selected">{$lang_videos}</a></li>
+    <li><a href="profile/{$username}/favorites/">{$lang_favorites}</a></li>
+    <li><a href="profile/{$username}/playlists/">{$lang_playlists}</a></li>
+  </ul>
+</div>
+
+
+
+<div class="clearboth"></div>
+
+<div class="blueBar">
+{include file="box.list_menu.html"}
+</div>
+
+<!-- google_ad_section_start -->
+<div class="gallery" id="display_list" style="display:none;"> 
+{section loop=$user_upload name=i}
+	
+	{include file="item.video_detailed.html" videos=$user_upload}
+  
+  	{if $smarty.section.i.index eq "1"}
+	<div class="clearboth"></div>
+  		<div class="ad468_home" id="grid_ad" align="center" style="width:623px;">{$list_ads}</div>
+  	{/if}
+
+{sectionelse}
+  <p>{$lang_no_video_uploaded_by} {$title}</p>
+{/section}
+</div>
+<div class="gallery" id="display_grid" style="display:none;"> 
+{section loop=$user_upload name=i}
+	{include file="item.video_brief.html" videos=$user_upload}
+  	{if $smarty.section.i.index eq "7"}
+		<div class="clearboth"></div>
+  		<div class="ad468_home" id="grid_ad" align="center">{$list_ads}</div>
+  	{/if}
+{sectionelse}
+  <p>{$lang_no_video_uploaded_by} {$title}</p>
+{/section}
+<div class="clear"></div>
+
+</div>
+
+
+<!-- google_ad_section_end -->
+
+
+
+<div class="blueBar">{if $total > 0}<span class="page">{$lang_page}: {$curr_page} {$lang_of} {$total}</span>{/if}
+		<div class="orderBy">
+	
+		
+			  
+		{if $next_page}
+		  <a href="profile/{$username}/videos/page{$next_page}.html" class="next">{$lang_next_page} &gt;&gt;</a>
+		{/if}
+		
+		{if $prev_page}
+		  <a href="profile/{$username}/videos/page{$prev_page}.html" class="next">&lt;&lt; {$lang_previous_page}</a>
+		{/if}
+		</div>
+	  </div>
+
+	
+<script>
+	setTimeout('setDisplayOnLoad();',1);
+</script>
+
+
+
+{include file="footer.html"}

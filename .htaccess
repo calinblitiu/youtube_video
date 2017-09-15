@@ -1,0 +1,49 @@
+# Begin Prismotube_v3
+Options -MultiViews
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+#RewriteBase /
+RewriteRule ^contact\-us\.html$ contact_us.php [NC,L]
+RewriteRule ^robots.txt robots.php [L]
+RewriteRule ^categories/all.html all_categories.php [L]
+RewriteRule ^tag/(.*)/orderby-(.*)/page([0-9]*).html list.php?q=$1&orderby=$2&p=$3 [L]
+RewriteRule ^categories/(.*)/([0-9]*)/page([0-9]*).html list.php?q=$1&id=$2&p=$3 [L]
+RewriteRule ^categories/(.*)/([0-9]*)/orderby-(.*)/page([0-9]*).html list.php?q=$1&id=$2&orderby=$3&p=$4 [L]
+RewriteRule ^feed/time-(.*)/(.*).html feed.php?time=$1&fid=$2 [L]
+RewriteRule ^feed/(.*).html feed.php?fid=$1 [L]
+RewriteRule ^video-fmt([0-9]*)/([^/]+)/(.*).html detail.php?fmt=$1&vid=$2 [L]
+RewriteRule ^video/([^/]+)/(.*).html detail.php?vid=$1 [L]
+RewriteRule ^rss/([0-9]*)/(.*)/page([0-9]*) rss/rss.php?catid=$1&tag=$2&p=$3 [L]
+RewriteRule ^rss/feed/(.*)/ rss/feed.php?fid=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)$ user_profile.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/$ user_profile.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/videos$ user_videos.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/videos/$ user_videos.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/videos/page([0-9]*).html user_videos.php?u=$1&p=$2 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/favorites$ user_favorites.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/favorites/$ user_favorites.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/favorites/page([0-9]*).html user_favorites.php?u=$1&p=$2 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/playlists$ user_playlists.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/playlists/$ user_playlists.php?u=$1 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/playlists/page([0-9]*).html user_playlists.php?u=$1&p=$2 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/playlists/([a-zA-Z0-9]*)/(.*)/page([0-9]*).html user_playlists_entry.php?u=$1&lid=$2&p=$4 [L]
+RewriteRule ^profile/([a-zA-Z0-9]*)/playlists/([a-zA-Z0-9]*)/(.*)/$ user_playlists_entry.php?u=$1&lid=$2 [L]
+RewriteRule ^upload/video.html upload.php [L]
+RewriteRule ^css/(.*\.css) combine.php?type=css&files=$1 [L]
+RewriteRule ^js/(.*\.js) combine.php?type=javascript&files=$1 [L]
+
+RewriteRule ^page/(.*).html pages.php?title=$1 [L]
+
+RewriteRule ^admin/.*$ - [PT]
+
+#other page, process in list.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.* list.php [L]
+
+</IfModule>
+# End Prismotube_v3
+
+AddDefaultCharset UTF-8

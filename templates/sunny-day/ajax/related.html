@@ -1,0 +1,92 @@
+
+{if $relatedVideosPosition == "sidebar"} 
+<div class="category">
+{else}
+<div class="category" style="width:600px;">
+{/if}
+	<h2>{$lang_related_videos}</h2>
+	
+	{if $relatedVideosPosition == "sidebar"} 
+<div class="categoriesTxt" style="height:270px;overflow:auto;">
+{else}
+<div class="categoriesTxt" style="width:600px;clear:both;">
+{/if}  
+
+
+<div id="loading" class="related_videos_wrap" style="{if $relatedVideosPosition == 'sidebar'}height:240px;{else}height:200px;{/if}">
+
+{section loop=$videos name=i}
+
+	{if $relatedVideosPosition == "sidebar"} 
+
+		<div class="video_smallthumb_item" style="float:left;">
+
+	  		<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}" id="img_anchor">
+				{if $videos[i].is_filtered == 1}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '2', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '2','FFCC00', {$videos[i].is_filtered})" />
+				{else}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '2', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '2','FFCC00', {$videos[i].is_filtered})" />
+				{/if}
+			</a>
+			<br />
+			<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}">{$videos[i].short_title}</a>
+
+
+
+   		</div>
+
+	{else}
+
+		<div class="video_smallthumb_item" style="float:left;margin-right:5px;">
+
+	  		<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}" id="img_anchor">
+				{if $videos[i].is_filtered == 1}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '2', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '2','FFCC00', {$videos[i].is_filtered})" />
+				{else}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '2', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '2','FFCC00', {$videos[i].is_filtered})" />
+				{/if}
+			</a>
+			<br />
+			<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}">{$videos[i].short_title}</a>
+
+   		</div>
+		
+		
+		
+		
+		
+		
+	{/if}
+
+{sectionelse}
+
+ <p>{$lang_no_related_videos}</p>
+
+{/section}
+
+
+
+</div>
+		{if $relatedVideosPosition == "sidebar"} 
+		<div class="blueBar" style="clear:both;position:absolute;margin-top:30px;">
+		{else}
+		<p>&nbsp;</p>
+		<div class="blueBar" style="clear:both;width:560px;margin-top:10px;">
+		{/if}
+			{if $total > 0}
+			  <p class="curr_page" style="font-size:11px;color:#666666;" align="center">{$lang_page}: {$curr_page} {$lang_of} {$total}</p>
+			{/if}
+			{if $prev_page}
+			  <p class="prev_page" style="float:left;"><a href="javascript:ajaxGet('ajax/related.php?vid={$id}&p=', 'relatedVideos', '{$prev_page}', 'loading');">&laquo; {$lang_previous_page}</a></p>
+			{/if}
+				  &nbsp;&nbsp;
+			{if $next_page}
+			  <p class="next_page" style="float:right;"><a href="javascript:ajaxGet('ajax/related.php?vid={$id}&p=', 'relatedVideos', '{$next_page}', 'loading');">{$lang_next_page} &raquo;</a></p>
+			{/if}
+		
+		</div>
+
+	</div>
+</div>
+
+<div style="clear:both;height:10px;"></div>

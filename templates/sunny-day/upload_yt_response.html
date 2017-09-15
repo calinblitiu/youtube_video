@@ -1,0 +1,21 @@
+{include file="header.html" title_page="$lang_upload_video_response_title" title_inner="$lang_upload_video_response_title"}
+
+ <div class="leftContent">
+	<div class="gallery">
+<table width="100%">
+    
+    <tr>
+        <td>{$lang_upload_video_response}</td>
+    </tr>
+	
+	{if $video_upload_notice != ''}
+	<tr>
+        <td>{$video_upload_notice}</td>
+    </tr>
+	{/if}
+	
+	
+</table>
+	</div>
+
+{include file="footer.html"}

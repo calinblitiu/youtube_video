@@ -1,0 +1,84 @@
+{include file="header.html" title_page="$title $lang_profile" title_inner=$title}
+{assign var='showDescription' value=false}
+
+
+<div id="profile">
+
+  <div id="profile_c1">
+  <p><span>{$lang_join}:</span> {$join_date|date_format}</p>
+  {if $name}
+    <p><span>{$lang_name}:</span> {$name}</p>
+  {/if}
+  {if $gender}
+    <p><span>{$lang_gender}:</span> {$gender}</p>
+  {/if}
+  {if $hometown}
+    <p><span>{$lang_hometown}:</span> {$hometown}</p>
+  {/if}
+  {if $location}
+    <p><span>{$lang_location}:</span> {$location}</p>
+  {/if}
+  </div>
+
+  <div id="profile_c2">
+  <p><span>{$lang_videos_watched}:</span> {$view_watch_count}</p>
+  <p><span>{$lang_subscribers}:</span> {$subscriber_count}</p>
+  <p><span>{$lang_channel_views}:</span> {$view_count}</p>
+  </div>
+
+  
+  {if $books}
+    <p><span>{$lang_books}:</span> {$books}</p>
+  {/if}
+  {if $movies}
+    <p><span>{$lang_movies}:</span> {$movies}</p>
+  {/if}
+  {if $music}
+    <p><span>{$lang_music}:</span> {$music}</p>
+  {/if}
+  {if $hobbies}
+    <p><span>{$lang_hobbies}:</span> {$hobbies}</p>
+  {/if}
+  
+  {$description}
+<div class="clear"></div>
+</div>
+
+<div id="user_menu">
+  <ul>
+    <li><a href="profile/{$username}/" class="selected">{$lang_profile}</a></li>
+    <li><a href="profile/{$username}/videos/">{$lang_videos}</a></li>
+    <li><a href="profile/{$username}/favorites/">{$lang_favorites}</a></li>
+    <li><a href="profile/{$username}/playlists/">{$lang_playlists}</a></li>
+  </ul>
+</div>
+
+
+
+
+<h2>{$lang_videos} (<a href="profile/{$username}/videos/">{$upload_count}</a>)</h2>
+
+<div class="video_item">
+<div class="clear"></div>
+{section loop=$user_upload name=i}
+	{include file="item.video_brief.html" videos=$user_upload}
+{sectionelse}
+  <p>{$lang_no_uploaded_by} {$title}</p>
+{/section}
+{if $list_ads != ''}
+<div class="ad468_home" id="grid_ad" align="center">{$list_ads}</div>
+{/if}
+</div>
+
+
+<h2>{$lang_favorites} (<a href="profile/{$username}/favorites/">{$favorites_count}</a>)</h2>
+
+{section loop=$user_favorites name=i}
+	
+	{include file="item.video_detailed.html" videos=$user_favorites}
+
+{sectionelse}
+  <p>{$lang_no_favorite_listing_by} {$title}</p>
+{/section}
+
+{include file="footer.html"}

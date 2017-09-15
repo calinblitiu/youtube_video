@@ -1,0 +1,17 @@
+<center>
+<a href="javascript:download_video('{$id}', '', '{$website_url}');"><img class="format_img" title="Download Low Quality FLV Format" src="{$theme_base}images/download_flv_low.jpg" border="0"></a>
+<a href="javascript:download_video('{$id}', 6, '{$website_url}');"><img class="format_img" title="Download High Quality FLV Format" src="{$theme_base}images/download_flv_high.jpg" border="0"></a>
+<a href="javascript:download_video('{$id}', 18, '{$website_url}');"><img class="format_img" title="Download High Quality MP4 Format" src="{$theme_base}images/download_mp4_high.jpg" border="0"></a>
+<a href="javascript:download_video('{$id}', 22, '{$website_url}');"><img class="format_img" title="Download High Definition MP4 Format" src="{$theme_base}images/download_mp4_hd.jpg" border="0"></a>
+</center>
+<div id="download-loading" style="margin-left:auto;margin-right:auto;display:none;" align="center">
+	<img src="{$theme_base}images/ajax-loader.gif" />
+	<br />{$lang_loading_please_wait}
+</div>
+<div id="blk_result" align="center" style="display:none">
+</div>
+<div style="padding:5px;">
+	<em>NB:</em> For flv formats, you need to "save as" filename.flv
+	<br>
+	<em>NB:</em> Some formats might not be available to download
+</div>

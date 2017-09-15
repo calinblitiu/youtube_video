@@ -1,0 +1,20 @@
+{if $size == "468"}
+	{assign var="height" value="60"}
+	{assign var="banner" value=$ads_468}
+{elseif $size == "300"}
+	{assign var="height" value="250"}
+	{assign var="banner" value=$ads_300}
+{elseif $size == "728"}
+	{assign var="height" value="90"}
+	{assign var="banner" value=$ads_728}
+{else}
+	{assign var="height" value="0"}
+{/if}
+
+{if $height != "0"}
+	{if $frame && $banner}
+		<iframe src="{$website_url}ads/getAd.php?size={$size}" width="{$size}" height="{$height}" frameborder="0" scrolling="no"></iframe>
+	{else}
+		{$banner}
+	{/if}
+{/if}

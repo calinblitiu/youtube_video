@@ -1,0 +1,97 @@
+{include file="header.html" title_page="$lang_upload_video" title_inner="$lang_upload_video"}
+
+ <div class="leftContent">
+  <!-- Left content Begins -->
+
+  <!-- google_ad_section_start -->
+  <div class="gallery">
+  {$err_message}
+	<ul id="upload_tab">
+	{if $is_yt_auth > 0}
+  <li class="current"><b>{$lang_step_1}</b> : {$lang_enter_video_detail}</li>
+  {else}
+  <li><b>{$lang_step_1}</b> : {$lang_enter_video_detail}</li>
+  {/if}
+  {if $is_yt_data > 0}
+  <li class="current"><b>{$lang_step_2}</b> : {$lang_upload_video}</li>
+  {else}
+  <li><b>{$lang_step_2}</b> : {$lang_upload_video}</li>
+  {/if}
+</ul>
+
+
+
+
+<div id="upload_form">
+
+
+<div>
+
+{if $is_yt_auth > 0}
+<form enctype="multipart/form-data" method="post" action="" name="frmUpload" id="frmUploadVideoDesc">
+<table width="100%">
+    
+    <tr>
+        <td width="30%">{$lang_title}:</td>
+        <td><input type="input" id="title" name="title" value=""></td>
+    </tr>
+	
+	<tr>
+        <td>{$lang_video_description}:</td>
+        <td><input type="input" id="desc" name="desc" value=""></td>
+    </tr>
+	
+	<tr>
+        <td>{$lang_video_category}:</td>
+        <td>
+		<select name="cat">		
+		{section name=i loop=$categories}
+			<option value="{$categories[i].name}">{$categories[i].value_data}</option>
+		{/section}
+		</select>
+		</td>
+    </tr>
+	
+	<tr>
+        <td>{$lang_keyword}:</td>
+        <td><input type="input" id="keyword" name="keyword" value=""></td>
+    </tr>
+	
+	<tr>
+		<td> </td>
+		<td><input type="submit" value=" {$lang_upload} " name="btnSubmit"/></td>
+	</tr>
+</tbody></table>
+</form>
+{/if}
+{if $is_yt_data > 0}
+<form method="post" action="{$url_token}?nexturl={$yt_response_url}" enctype="multipart/form-data" name="frmUploadVideo">
+<table width="100%" align="center">
+    <input type="hidden" name="url" id="url" value="{$url_token}">
+    <input type="hidden" name="token" id="token" value="{$upload_token}">
+    <tr>
+        <td width="30%" align="right">{$lang_video}:</td>
+        <td width="70%" align="left"><input type="file" name="file1" id="file1"><td/>
+    </tr>
+	<tr>
+	<td colspan="2"><br><br></td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+      <div style="padding-left:130px;">
+        <a id="btn-upload-video" onclick="javascript:upload_video_file();" ><span> {$lang_upload_video} </span></a>
+      </div>
+		</td>
+	</tr>
+</table>
+
+</form>
+{/if}
+
+	</div>
+
+
+</div>
+
+	</div>
+{include file="footer.html"}

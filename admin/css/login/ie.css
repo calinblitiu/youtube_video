@@ -1,0 +1,15 @@
+.twitter_feed {
+	display: block;
+	overflow: hidden;
+	background-color: #525252;
+	border-top:1px solid #333;
+	border-bottom:1px solid #333;
+	border-left:2px solid #333;
+	border-right:2px solid #333;
+	font-size:14px;
+	font-family:Arial,sans-serif;
+	line-height:22px;
+	padding: 10px !important;
+	text-align:left;
+	width:400px !important;
+}

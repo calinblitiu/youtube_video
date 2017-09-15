@@ -1,0 +1,106 @@
+{include file="header.html" title_page="$title :: $lang_playlists" title_inner="$title :: $lang_playlists"}
+{assign var='showDescription' value=false}
+
+<div class="leftContent">
+
+ <div id="profile">
+
+  <div id="profile_c1">
+  <p><span>{$lang_join}:</span> {$join_date|date_format}</p>
+  {if $name}
+    <p><span>{$lang_name}:</span> {$name}</p>
+  {/if}
+  {if $gender}
+    <p><span>{$lang_gender}:</span> {$gender}</p>
+  {/if}
+  {if $hometown}
+    <p><span>{$lang_hometown}:</span> {$hometown}</p>
+  {/if}
+  {if $location}
+    <p><span>{$lang_location}:</span> {$location}</p>
+  {/if}
+  </div>
+
+  <div id="profile_c2">
+  <p><span>{$lang_videos_watched}:</span> {$view_watch_count}</p>
+  <p><span>{$lang_subscribers}:</span> {$subscriber_count}</p>
+  <p><span>{$lang_channel_views}:</span> {$view_count}</p>
+  </div>
+
+  
+<div class="clearboth"></div>
+  {if $books}
+    <p><span>{$lang_books}:</span> {$books}</p>
+  {/if}
+  {if $movies}
+    <p><span>{$lang_movies}:</span> {$movies}</p>
+  {/if}
+  {if $music}
+    <p><span>{$lang_music}:</span> {$music}</p>
+  {/if}
+  {if $hobbies}
+    <p><span>{$lang_hobbies}:</span> {$hobbies}</p>
+  {/if}
+  
+  {$description}
+<div class="clear"></div>
+</div>
+
+<div id="user_menu">
+  <ul>
+    <li><a href="profile/{$username}/">{$lang_profile}</a></li>
+    <li><a href="profile/{$username}/videos/">{$lang_videos}</a></li>
+    <li><a href="profile/{$username}/favorites/">{$lang_favorites}</a></li>
+    <li><a href="profile/{$username}/playlists/" class="selected">{$lang_playlists}</a></li>
+  </ul>
+</div>
+
+
+
+<div class="clearboth"></div>
+
+
+{section loop=$user_playlists name=i}
+<p><a href="profile/{$username}/playlists/{$user_playlists[i].id}/{$user_playlists[i].title|seotitle}/">{$user_playlists[i].title}</a> </p>
+{if $user_playlists[i].description}<p>{$user_playlists[i].short_description}</p>{/if}
+
+
+  {if $smarty.section.i.index eq "1"}
+  	<center>{$list_ads}</center>
+	<br>
+  {/if}
+
+
+{sectionelse}
+  <p>{$lang_no_playlist_by} {$title}</p>
+{/section}
+
+
+
+
+{if $total > 0}
+
+<div class="blueBar">{if $total > 0}<span class="page">{$lang_page}: {$curr_page} {$lang_of} {$total}</span>{/if}
+		<div class="orderBy">
+	
+		
+			  
+		{if $next_page}
+		  <a href="profile/{$username}/playlists/page{$next_page}.html" class="next">{$lang_next_page} &gt;&gt;</a>
+		{/if}
+		
+		{if $prev_page}
+		  <a href="profile/{$username}/playlists/page{$prev_page}.html" class="next">&lt;&lt; {$lang_previous_page}</a>
+		{/if}
+		
+		</div>
+	  </div>
+{/if}
+	
+<script>
+	setTimeout('setDisplayOnLoad();',1);
+</script>
+
+
+
+{include file="footer.html"}

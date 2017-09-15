@@ -1,0 +1,32 @@
+	<div class="video_item">
+  		<h3><a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html">{$videos[i].title}</a></h3>
+		<!-- google_ad_section_start -->
+    	<p class="justify_p">{$videos[i].short_description}</p>
+		<!-- google_ad_section_end -->
+		<div class="video-item-list">
+      	<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html"><img title="{$videos[i].title}" class="largeThumb" src="{$videos[i].thumbnail.0}" width="200" /></a>
+		<div class="video-list-time"><span class="span-video-list-time">{$videos[i].minute_format}</span></div></div>
+   	<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html"><img class="smallThumb" src="{$videos[i].thumbnail.1}" width="70" /><img class="smallThumb" src="{$videos[i].thumbnail.2}" alt="{$videos[i].title}" width="70" /><img class="smallThumb" src="{$videos[i].thumbnail.3}" alt="{$videos[i].title}" width="70" /></a>
+      	<ul>
+        	<li><span><img class="profileIcon" src="{$theme_base}images/profile.gif" title="{$videos[i].author} Channel" border="0"></span> <a href="profile/{$videos[i].author}/">{$videos[i].author}</a></li>
+        	<li><span>{$lang_length}:</span> {$videos[i].minute_format}</li>
+			{if $videos[i].view_count}<li><span>{$lang_Views}:</span> {$videos[i].view_count}</li>{/if}
+			 {if $tags_enabled == 'true'}
+			<li>
+				<span>{$lang_tags}:</span>
+				
+				<!-- google_ad_section_start -->
+    			{foreach from=$videos[i].keywords item=tag}
+      			<a class="tag" href="{$tag|urlencode}/">{$tag}</a>&nbsp;
+    			{/foreach} 
+				<!-- google_ad_section_end -->
+			</li>
+{/if}			
+          	<li>
+				 <div class="rating_bar_detail">
+					<div style="width:{$videos[i].rating_avg}%"></div>
+				</div>
+        	</li>  
+         </ul>
+<div class="clear"></div>
+  </div>

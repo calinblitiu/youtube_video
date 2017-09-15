@@ -1,0 +1,72 @@
+{if $total > 0}
+
+  <div class="related_videos_pager">{$lang_page}: {$curr_page} {$lang_of} {$total} &nbsp;</div>
+
+{/if}
+
+<h3>{$lang_related_videos}</h3>
+
+<div id="loading" class="related_videos_wrap" style="{if $relatedVideosPosition == "sidebar"}height:240px;{else}height:200px;{/if}">
+
+{section loop=$videos name=i}
+
+	{if $relatedVideosPosition == "sidebar"} 
+
+		<div class="video_smallthumb_item">
+
+	  		<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}">
+				{if $videos[i].is_filtered == 1}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '2', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '2','FFCC00', {$videos[i].is_filtered})" style="width:160px;height:105px;" />
+				{else}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '2', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '2','FFCC00', {$videos[i].is_filtered})" />
+				{/if}
+			</a>
+
+      		<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}">{$videos[i].short_title}</a>
+
+   		</div>
+
+	{else}
+
+		<div class="video_thumb_item">
+
+	  		<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}">
+				{if $videos[i].is_filtered == 1}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '4', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '4','FFCC00', {$videos[i].is_filtered})" style="width:160px;height:105px;" />
+				{else}
+				<img src="{$videos[i].thumbnail.2}" alt="{$videos[i].description}" onmouseout="mouseOutImage(this, '4', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '4','FFCC00', {$videos[i].is_filtered})" />
+				{/if}
+			</a>
+
+      		<a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}">{$videos[i].short_title}</a>
+
+   		</div>
+
+	{/if}
+
+{sectionelse}
+
+  <p>{$lang_no_related_videos}</p>
+
+{/section}
+
+</div>
+
+<div class="related_videos_pagination">
+
+{if $prev_page}
+
+  <div class="prev"><a href="javascript:ajaxGet('ajax/related.php?vid={$id}&p=', 'relatedVideos', '{$prev_page}', 'loading');">{$lang_previous_page}</a></div>
+
+{/if}
+
+      
+
+{if $next_page}
+
+  <div class="next"><a href="javascript:ajaxGet('ajax/related.php?vid={$id}&p=', 'relatedVideos', '{$next_page}', 'loading');">{$lang_next_page}</a></div>
+
+{/if}
+
+</div>
+

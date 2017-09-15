@@ -1,0 +1,530 @@
+*{
+  outline: none
+}
+.mainBody{
+	margin:20
+	color:#313131;	
+    font: 13px arial,sans-serif;
+ 	background:url(../images/main_bg.jpg) repeat-x;
+}
+a{
+	font-size:12px;
+	color:#734DCF;
+}
+p{
+	margin-bottom:10px;
+}
+.logo{
+	float:left;
+	margin:5px;
+	width:553px;
+	height:81px;
+}
+.header{
+    overflow:hidden;
+	padding:5px;
+	background:#367CAF;
+}
+.topRightWrap{
+	margin-right:10px;
+	float:right; 
+	
+}
+.version{
+	float:right; 
+	color:#FFFFFF;
+	margin:45px 0 0 0;
+	height:15px;
+	width:280px;
+	overflow:hidden;
+}
+.version a{
+	color:#FFFF77;	
+}
+
+.topLinks{
+	float:right; 
+	margin-top:5px;
+	color:#FFFF77;
+	height:15px;
+}
+.topLinks a{
+	color:#FFFF77;
+	text-decoration:none;
+	
+}
+.topLinks a:hover{
+	color:#FFFFFF;
+	text-decoration:underline;
+	
+}
+
+
+.wrap{
+	margin:0px auto; 
+	background:#fff;
+	width:960px;
+	border:10px solid #367CAF;
+	overflow:hidden;
+}
+/*--------------------------------------------------
+  REQUIRED to hide the non-active tab content.
+  But do not hide them in the print stylesheet!
+  --------------------------------------------------*/
+.tabberlive .tabbertabhide {
+ display:none;
+}
+/*--------------------------------------------------
+  .tabber = before the tabber interface is set up
+  .tabberlive = after the tabber interface is set up
+  --------------------------------------------------*/
+.tabber {
+}
+.tabberlive {
+ margin-top:1em;
+}
+/*--------------------------------------------------
+  ul.tabbernav = the tab navigation list
+  li.tabberactive = the active tab
+  --------------------------------------------------*/
+ul.tabbernav
+{
+ 	
+ margin:0;
+ padding: 0px 0 3px 0;
+ border-bottom: 5px solid #7EB543;
+ font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+ul.tabbernav li
+{
+ list-style: none;
+ margin: 0;
+ display: inline;
+}
+ul.tabbernav li a
+{
+ padding: 3px 0.5em;
+ margin-left: 4px;
+ border-bottom: none;
+ background: #3393BE;
+ text-decoration: none;
+ color:#313131;
+ font-size:16px;
+ font-family: 'Courgette';
+}
+ul.tabbernav li a:link { color: #FFFFFF; }
+ul.tabbernav li a:visited { color: #667; }
+ul.tabbernav li a:hover
+{
+ color: #fff;
+ background: #7EB543;
+}
+ul.tabbernav li.tabberactive a
+{
+ color: #fff;
+ background: #7EB543;
+}
+ul.tabbernav li.tabberactive a:hover
+{
+ color: #fff;
+ background: #7EB543;
+}
+/*--------------------------------------------------
+  .tabbertab = the tab content
+  Add style only after the tabber interface is set up (.tabberlive)
+  --------------------------------------------------*/
+.tabberlive .tabbertab {
+ padding:5px;
+ border-top:1px solid #517F1F;
+ /* If you don't want the tab size changing whenever a tab is changed
+    you can set a fixed height */
+ /* height:200px; */
+ /* If you set a fix height set overflow to auto and you will get a
+    scrollbar when necessary */
+ /* overflow:auto; */
+}
+/* If desired, hide the heading since a heading is provided by the tab */
+.tabberlive .tabbertab h2 {
+
+}
+.tabberlive .tabbertab h3 {
+
+}
+/* Example of using an ID to set different styles for the tabs on the page */
+.tabberlive#tab1 {
+}
+.tabberlive#tab2 {
+}
+.tabberlive#tab2 .tabbertab {
+ height:250px;
+ overflow-y:auto;
+ overflow-x:hidden;
+}
+.tabbertab p{
+	text-align:left;
+}
+.settingTitle{
+	margin:0 0 0 10px;
+	text-align:left;
+	float:left;
+	width:375px;
+	color: #313131;
+	font-weight:bold;
+	font-size:16px;
+}
+.settingTitle_small{
+	margin:0 0 0 10px;
+	text-align:left;
+	float:left;
+	width:170px;
+	color: #313131;
+	font-weight:bold;
+	font-size:12px;
+}
+.input {
+	width: 400px;
+	padding:4px;
+	border: 1px solid #B5C6DF;
+	font-size:16px;
+	font-weight:normal;
+	color:#313131;
+	background-color:#D9E8FF;
+	/*height: 20px;*/
+}
+.radioGroup { float:right; width: 450px; }
+.radio {
+	margin: 10px 0;
+}
+.radio input { float: left; }
+.input_small {
+	width: 200px;
+	padding:4px;
+	border: 1px solid #B5C6DF;
+	font-size:16px;
+	font-weight:normal;
+	color:#313131;
+	background-color:#D9E8FF;
+	height: 20px;
+}
+.input_color_sample{
+	width: 30px;
+	height: 24px;
+	padding:0px;
+	border: 1px solid #313131;
+}
+.select {
+	width: 420px;
+	height: 40px;
+	padding:5px;
+	font-size:22px;
+	font-weight:normal;
+	color:#313131;
+	background-color:#D9E8FF;
+	border: 1px solid #B5C6DF;
+}
+
+option {
+	width: 400px;
+	height: 20px;
+	padding:0px;
+	font-size:14px;
+	font-weight:normal;
+	color:#313131;
+	background-color:#D9E8FF;
+	border: 0px;
+}
+
+.select_list{
+	width: 250px;
+	padding:5px;
+	font-size:14px;
+	font-weight:bold;
+	color:#313131;
+	background-color:#D9E8FF;
+}
+.textarea {
+	width: 400px;
+	height:100px;
+	padding:4px;
+	border: 1px solid #B5C6DF;
+	font-size:16px;
+	font-weight:normal;
+	color:#313131;
+	background-color:#D9E8FF;
+}
+.button {
+	width: 100px;
+	height:25px;
+	padding:3px;
+	border: 1px solid #4F8F35;
+	font-size:14px;
+	color:#FFFFFF;
+	background: #83BF6B;
+	font-weight:bold;
+	cursor:pointer;
+}
+#saveConfig{
+	margin:0px auto; 
+	width:130px;
+	padding:10px;
+}
+.button:hover {
+	background: #97CF81;
+}
+.footer_wrap{
+	margin:0px auto; 
+	width:793px;
+}
+.copyright{
+	float:right;
+	margin:5px 0px 10px 0;
+	font-size:13px;
+	height:15px;
+}
+.poweredby{
+	float:left;
+	margin:5px 0px 10px 0;
+	font-size:13px;
+	height:15px;
+}
+.configSaved {
+	margin:10px;
+	padding:5px;
+	color:#313131;
+	border:1px solid #2AB100;
+	background: #E9FFE2;
+	font-size:16px;
+	font-weight:bold;
+}
+.success {
+	margin:10px;
+	padding:5px;
+	color:#313131;
+	border:1px dashed #2AB100;
+	background: #E9FFE2;
+	font-size:16px;
+	font-weight:bold;
+}
+.error{
+	margin:10px;
+	padding:5px;
+	color:#313131;
+	border:1px dashed red;
+	background: #FFF4F4;
+	font-size:16px;
+	font-weight:bold;
+}
+.clear{
+	clear:both;
+}
+.gradientBg{
+	/*color:#FFFFCC;	*/
+    font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+ 	background: #EFEFD1 none repeat scroll 0 0;
+	padding:10px;
+	border:2px solid #DEDFA7; 
+}
+.gradientBg a{
+	font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+
+.theme_screenshot{
+	width:300px;
+}
+.theme_no_screenshot{
+}
+
+
+#sort-ads {
+	list-style: none;
+}
+
+#sort-ads li {
+	display: block;
+	padding: 20px 10px; margin-bottom: 3px;
+	background-color: #efefef;
+}
+
+#sort-ads li img.handle {
+	margin-right: 20px;
+	cursor: move;
+}
+
+fieldset{
+  border: 1px solid #99B2DF; 
+  margin: 20px 30px; 
+  padding: 0px 20px 10px 20px; 
+  background:#BFD6FF url(../images/fieldset_grad_bg.png) repeat-x top;
+}
+
+legend{
+  font-family: 'Courgette';
+  padding: 0pt 0pt 12px; 
+  color: #1A6B8F; 
+  font-size: 2em; 
+  font-weight: bold;
+}
+
+table.tablesorter {border:2px solid #0074B3;border-collapse:collapse;}
+table.tablesorter th {border-right:1px solid #0074B3; background-color:#0085cc; color:#fff;}
+table.tablesorter td {border:1px solid #0074B3;background-color:#FFFFFF;padding:5px;}
+table.tablesorter tr.bg td, table.tablesorter tr.odd td {background-color:#e8f6ff;}
+table.tablesorter tr.bg td, table.tablesorter tr.even td {background-color:#FFFFFF;}
+table.tablesorter tr { border:1px solid #0074B3; }
+table.tablesorter th {background-color:#0074B3;padding:5px;}
+
+#xml_seconds, #tags_seconds, #stats_seconds, #rss_seconds, #categories_seconds {
+	font-size: 16px;color:#313131;margin-top:10px; margin-bottom:10px;font-weight:bold;margin-left:10px;
+}
+
+#filepc {
+	background-color:#D9E8FF;
+border:1px solid #B5C6DF;
+color:#313131;
+font-size:16px;
+font-weight:normal;
+padding:4px;
+}
+
+#block_keywords_list {  padding-left:380px; }
+#block_keywords_list span { display:inline-block; }
+
+#navigation-filter li { list-style-type:none; float:left; color:black; height:20px; padding:2px; background-color:#99B2DF;border:1px solid #2B36AF;
+margin-right:5px; margin-bottom:5px;}
+#navigation-filter li a { text-decoration:none;   }
+
+#modalbox-overlay {background-color:#000; cursor:wait;}
+
+/* Container */
+#modalbox-container {font: 16px/22px 'Trebuchet MS', Verdana, Arial; text-align:left; width:450px;}
+#modalbox-container .modalbox-content {background-color:#333; color:#ddd; height:40px;}
+#modalbox-container h1 {color:#d76300; font-size:20px; line-height:20px; margin:0; padding:0 0 6px 12px; text-align:left;}
+#modalbox-container .modalbox-loading {background:url(../images/loading.gif) no-repeat; height:55px; margin:-14px 0 0 190px; padding:0; position:absolute; width:54px; z-index:8000;}
+#modalbox-container .modalbox-message {text-align:center;}
+#modalbox-container .modalbox-error {background:#000; border:2px solid #ccc; font-size:14px; font-weight:bold; line-height:18px; margin:0 auto; padding:2px; width:92%;}
+#modalbox-container br {clear:both;}
+#modalbox-container form {margin:0; padding:0;}
+#modalbox-container label {clear:left; display:block; float:left; font-weight:bold; padding-right:4px; text-align:right; width:200px;}
+#modalbox-container label span { font-size:10px; }
+#modalbox-container .modalbox-input {background:#eee; border:1px solid #fff; font-family:'Trebuchet MS', Verdana, Arial; float:left; padding:2px; margin:2px; width:200px;}
+#modalbox-container textarea {height:114px;}
+#modalbox-container .modalbox-cc {cursor:default; font-size:14px; vertical-align:top;}
+#modalbox-container .modalbox-top {background-color:#333; height:13px; margin:0; padding:0; -webkit-border-top-left-radius:8px; -webkit-border-top-right-radius:8px; -moz-border-radius-topleft:8px; -moz-border-radius-topright:8px; border-radius:8px 8px 0 0;}
+#modalbox-container .modalbox-bottom {background-color:#333; font-size:12px; height:13px; line-height:12px; text-align:center; -webkit-border-bottom-right-radius:8px; -webkit-border-bottom-left-radius:8px; -moz-border-radius-bottomright:8px; -moz-border-radius-bottomleft:8px; border-radius:0 0 8px 8px;}
+#modalbox-container .modalbox-bottom a,
+#modalbox-container .modalbox-bottom a:link,
+#modalbox-container .modalbox-bottom a:active,
+#modalbox-container .modalbox-bottom a:visited {color:#666; position:relative; top:-4px; text-decoration:none;}
+#modalbox-container .modalbox-bottom a:hover {color:#888;}
+#modalbox-container .modalbox-button {background:#d76300; border:0; color:#fff; cursor:pointer; font-size:16px; font-weight:bold; height:26px; margin:4px 0 0 4px; text-align:center; vertical-align:middle; -webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px;}
+#modalbox-container .modalbox-button:hover {background:#f49000;}
+#modalbox-container a.modal-close,
+#modalbox-container a.modal-close:link,
+#modalbox-container a.modal-close:active,
+#modalbox-container a.modal-close:visited {color:#999; font-size:18px; font-weight:bold; position:absolute; text-decoration:none; right:8px; top:0px;}
+
+#modalbox-container label#lblDescription { width:400px;text-align:left; padding-left:30px; }
+
+/* Nice Button */
+
+ul.nice_btn_blue {
+	margin: 10px 0;
+	list-style: none;
+	float: left;
+	clear: left;
+}
+ul.nice_btn_blue li {
+	float: left;
+	display: inline; /*For ignore double margin in IE6*/
+	margin: 0 10px;
+}
+ul.nice_btn_blue li a {
+	text-decoration: none;
+	float:left;
+	color: #999;
+	cursor: pointer;
+	font: 900 14px/22px "Arial", Helvetica, sans-serif;
+}
+ul.nice_btn_blue li a span {
+	margin: 0 10px 0 -10px;
+	padding: 1px 8px 5px 18px;
+	position: relative; /*To fix IE6 problem (not displaying)*/
+	float:left;
+}
+
+ul.nice_btn_blue li a.current, ul.nice_btn_blue li a:hover {
+	background: url(../images/nice_btn_blue.png) no-repeat top right;
+ 	color: #0d5f83;
+}
+ul.nice_btn_blue li a.current span, ul.nice_btn_blue li a:hover span {
+	background: url(../images/nice_btn_blue.png) no-repeat top left;
+}
+.submitbutton {
+	width: 135px;
+	height: 34px;
+	font-size:16px;
+	font-weight:normal;
+	color:#313131;
+	background-color:#D9E8FF;
+	background: url(../images/save.png) no-repeat top left;
+}
+
+a#cat_unselected {
+	color:#313131;
+}
+
+a#cat_selected {
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+#table_header { padding:5px;height:280px; overflow-x:hidden; overflow-y:auto; }
+#table_bg { background-color:#FF652F; }
+
+#block-tags-cloud img { float:left; margin-right: 10px; margin-top: 8px; }
+#block-tags-cloud p font { color:#f00; }
+
+
+
+
+/* CSS 3 shiny blue button || http://hellohappy.org/css3-buttons/
+*******************************************************************************/
+.shiny-blue{
+  background-color: #759ae9;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #759ae9), color-stop(50%, #376fe0), color-stop(50%, #1a5ad9), color-stop(100%, #2463de));
+  background-image: -webkit-linear-gradient(top, #759ae9 0%, #376fe0 50%, #1a5ad9 50%, #2463de 100%);
+  background-image: -moz-linear-gradient(top, #759ae9 0%, #376fe0 50%, #1a5ad9 50%, #2463de 100%);
+  background-image: -ms-linear-gradient(top, #759ae9 0%, #376fe0 50%, #1a5ad9 50%, #2463de 100%);
+  background-image: -o-linear-gradient(top, #759ae9 0%, #376fe0 50%, #1a5ad9 50%, #2463de 100%);
+  background-image: linear-gradient(top, #759ae9 0%, #376fe0 50%, #1a5ad9 50%, #2463de 100%);
+  border-top: 1px solid #1f58cc;
+  border-right: 1px solid #1b4db3;
+  border-bottom: 1px solid #174299;
+  border-left: 1px solid #1b4db3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 0 2px 0 rgba(57, 140, 255, 0.8);
+  box-shadow: inset 0 0 2px 0 rgba(57, 140, 255, 0.8);
+  color: #fff;
+  font: bold 12px/1 "helvetica neue", helvetica, arial, sans-serif;
+  padding: 7px 0;
+  text-shadow: 0 -1px 1px #1a5ad9;
+  width: 200px; }
+  
+  .shiny-blue:hover {
+    background-color: #5d89e8;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #5d89e8), color-stop(50%, #2261e0), color-stop(50%, #044bd9), color-stop(100%, #0d53de));
+    background-image: -webkit-linear-gradient(top, #5d89e8 0%, #2261e0 50%, #044bd9 50%, #0d53de 100%);
+    background-image: -moz-linear-gradient(top, #5d89e8 0%, #2261e0 50%, #044bd9 50%, #0d53de 100%);
+    background-image: -ms-linear-gradient(top, #5d89e8 0%, #2261e0 50%, #044bd9 50%, #0d53de 100%);
+    background-image: -o-linear-gradient(top, #5d89e8 0%, #2261e0 50%, #044bd9 50%, #0d53de 100%);
+    background-image: linear-gradient(top, #5d89e8 0%, #2261e0 50%, #044bd9 50%, #0d53de 100%);
+    cursor: pointer; }
+    
+  .shiny-blue:active {
+    border-top: 1px solid #1b4db3;
+    border-right: 1px solid #174299;
+    border-bottom: 1px solid #133780;
+    border-left: 1px solid #174299;
+    -webkit-box-shadow: inset 0 0 5px 2px #1a47a0, 0 1px 0 #eeeeee;
+    box-shadow: inset 0 0 5px 2px #1a47a0, 0 1px 0 #eeeeee; }

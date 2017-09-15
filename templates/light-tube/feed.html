@@ -1,0 +1,34 @@
+{include file="header.html" title_page="$feed_title $lang_videos" title_inner="$feed_title" feed_id="$feed_id"}
+{include file="box.list_menu.html" showTime="true"}
+<div id="display_list" style="display:none;"> 
+{section loop=$videos name=i}
+	{include file="item.video_detailed.html" videos=$videos}
+  	{if $smarty.section.i.index eq "2"}
+		{if $list_ads != ''}
+  		<div class="ad468_home" id="grid_ad" align="center">{$list_ads}</div>
+		{/if}
+  	{/if}
+{sectionelse}
+  <p>{$lang_no_video_available}</p>
+{/section}
+</div>
+<div id="display_grid" style="display:none;"> 
+<div class="video_item">
+<div class="clear"></div>
+{section loop=$videos name=i}
+	{include file="item.video_brief.html" videos=$videos}
+  	{if $smarty.section.i.index eq "5"}
+		{if $list_ads != ''}
+  		<div class="ad468_home" id="grid_ad" align="center">{$list_ads}</div>
+		{/if}
+  	{/if}
+{sectionelse}
+  <p>{$lang_no_related_videos}</p>
+{/section}
+<div class="clear"></div>
+</div>
+</div>
+<script>
+	setTimeout('setDisplayOnLoad();',1);
+</script>
+{include file="footer.html"}

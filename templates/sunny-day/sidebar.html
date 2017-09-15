@@ -1,0 +1,142 @@
+{if $showDescription}
+	{if $enable_download}
+	<div class="category">
+	<h2>{$lang_download_video}</h2>
+		{include file="box.download.html"}
+	</div>
+	{/if}
+	
+	<div class="sidebarAd" style="margin-bottom:10px;">
+	{$above_video_detail_ads}
+	</div>
+
+	<div class="category">
+	<h2>{$lang_video_details}</h2>
+		{include file="box.video_description.html"}
+	</div>
+{/if}
+{if $video_upload_enabled == 'true'}
+<div class="sidebarContainer_upload">
+<a href="upload.php" class="png">
+<img border="0" src="{$theme_base}images/upload_video_btn.png" style="width:300px;" />
+</a>
+</div>
+{/if}
+
+
+
+
+{if $id && $relatedVideosPosition == "sidebar"}
+{if $above_related_ads != ""}
+<div class="sidebarAd" id="blk-display">
+{$above_related_ads}
+</div>
+{/if}
+<div class="category">
+		<div class="sidebarContainer" id="height-related">
+			<div id="relatedVideos"></div>
+		</div>
+		<script type="text/javascript">
+			setTimeout('ajaxGet(\'ajax/related.php?vid={$id}&p=\', \'relatedVideos\', \'1\', \'relatedVideos\');',1500);
+		</script>
+</div>
+<div class="clearboth"></div>
+{/if}
+
+{if $sitewide_above_category != ""}
+ {if $relatedVideosPosition == "sidebar"}
+ <div class="sidebarAd" id="blk-display">
+ {else}
+ <div class="sidebarAd" id="blk-display">
+ {/if}
+
+{$sitewide_above_category}
+</div>
+{/if}
+
+
+<div class="category">
+	<h2>{$lang_categories}</h2>
+	<div class="categoriesTxt">
+		{if $is_categories_cache}
+			{php} categories_getTreeMenu(); {/php}
+			{include_php file="$html_cache_dir/categories_cache.php"}
+		{else}
+			{php} echo categories_getTreeMenu(); {/php}
+		{/if}
+	</div>
+</div>
+{if $showTagCloud}
+<div class="sidebarAd" id="blk-display">
+{$sitewide_above_video_tags}
+</div>
+  <div class="category">
+	<!-- Video tags Begins -->
+	<h2>{$lang_video_tags}</h2>
+	{include file="$html_cache_dir/tags.html"}
+  </div>
+  {/if}
+  
+  {if $facebook_enabled == 'true'}
+  <div class="category">
+	<h2>{$lang_facebook}</h2>
+	<iframe src="https://www.facebook.com/plugins/likebox.php?href={$facebook_page_url}&amp;width=302&amp;height={$facebook_height}&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream={$facebook_stream}&amp;header=false&amp;appId=170920906315017" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:302px; height:{$facebook_iframe_height}px;" allowTransparency="true"></iframe>
+	
+	
+
+	
+	
+  </div>
+ 
+  {/if}
+  
+	{if $shoutbox_enabled == 'true'}
+	<div class="category">
+		<h2>Shoutbox</h2>
+		<div class="categoriesTxt" style="height:auto;">
+		{$shoutbox_code}
+		</div>
+	</div>
+	{/if}
+	
+  {if $is_show_twitter_feeds}
+  <!-- google_ad_section_start -->
+   <div class="category">
+	<h2>{$lang_twitter_feeds}</h2>
+	<div class="categoriesTxt">
+	{section loop=$twitter_feeds name=i}
+	<div id="tweet_feeds">
+		<div><a href="{$twitter_feeds[i].author_link}"><img src="{$twitter_feeds[i].image}" border="0" /></a></div>
+		<a href="{$twitter_feeds[i].author_link}">{$twitter_feeds[i].author}</a>:&nbsp;&nbsp;{$twitter_feeds[i].desc} <a href="{$twitter_feeds[i].link} ">{$lang_view_tweet}</a>
+	</div>
+	{/section}
+	</div>
+  </div>
+  <!-- google_ad_section_end -->
+  {/if}
+  
+    {if $is_show_flickr_feeds}
+
+   <div class="category">
+	<h2>{$lang_flickr}</h2>
+	<div class="sidebar_widget">
+		<div id="flickr_feeds">
+		{section loop=$flickr_feeds name=i}
+		<div>
+			{$flickr_feeds[i].img}
+		</div>
+		{/section}
+		</div>
+	</div>
+  </div>
+
+  {/if}
+  
+  {if $showLinks}
+  <div class="category">
+	<!-- Video tags Begins -->
+	<h2>{$lang_links}</h2>
+	{include file="box.links.html"}
+  </div>
+  {/if}
+  

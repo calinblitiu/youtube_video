@@ -1,0 +1,67 @@
+{include file="header.html" keywords="" no_icon="yes" title_page="$lang_contact_us" title_inner="$lang_contact_us"}
+{php}
+
+$ts = time();
+
+{/php}
+ <div class="leftContent">
+	<!-- Left content Begins -->
+	
+	<div class="category_list">
+	<form name="commentForm" id="commentForm" action="" method="post">
+
+	<table>
+
+	{if $success_msg != ""}
+	<tr><td colspan="2"><div align="center" class="err_msg">{$success_msg}</div></td></tr>
+	{/if}
+	
+	<tr>
+	<td valign="top"><span>{$lang_name}:</span></td>
+	<td><input type="text" name="name" class="box_field" value="{$name}" />
+		{if $lang_err_name != ""} <div class="err_msg">{$lang_err_name}</div> {/if}
+	</td>
+	</tr>
+	
+	<tr>
+	<td valign="top"><span>{$lang_email}:</span></td>
+	<td><input type="text" name="email" class="box_field" value="{$email}" />
+		{if $lang_err_email != ""} <div class="err_msg">{$lang_err_email}</div> {/if}
+	</td>
+	</tr>
+	
+	<tr>
+	<td valign="top"><span>{$lang_subject}:</span></td>
+	<td><input type="text" name="subject" class="box_field" value="{$subject}" />
+		{if $lang_err_subject != ""} <div class="err_msg">{$lang_err_subject}</div> {/if}
+	</td>
+	</tr>
+	
+	<tr>
+
+	<td valign="top"><span>{$lang_message}:</span></td>
+	<td><textarea name="message" rows="5" cols="40" id="box_comment">{$message}</textarea>
+	{if $lang_err_message != ""} <div class="err_msg">{$lang_err_message}</div> {/if}
+	</td>
+		
+	</tr>
+	<tr valign="top">
+	<td><img id="__code__" src="lib/validator/code.php?id={php} echo $ts; {/php}" style="border:1px solid #000000" /><br />
+	<a style="color:#2786C2;" href="#" onclick="getNewImgCode('{$website_url}','__code__'); return false;">{$lang_click_for_new_code}</a></td>
+	<td><input type="text" name="code" class="box_field" />
+		{if $lang_err_code != ""} <div class="err_msg">{$lang_err_code}</div> {/if}
+	</td>
+	</tr>
+	<tr>
+
+	<td></td>
+	<td><input type="submit" name="btnSubmit" id="box_submit" value="{$lang_submit}"></td>
+
+	</tr>
+	</table>
+
+	</form>
+
+	</div>
+
+{include file="footer.html"}

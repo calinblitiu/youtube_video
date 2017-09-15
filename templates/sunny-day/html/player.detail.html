@@ -1,0 +1,59 @@
+{if $youtube_player}
+	<script type="text/javascript">
+	{* // https://developers.google.com/youtube/player_parameters *}
+		var so = new SWFObject("{$player_file}", "youtube", "600", "400", "2", "#000000");{*// We can play with the player sizes too http://support.google.com/youtube/bin/answer.py?hl=en&answer=178264 , theres also chromeless player. *}
+		so.addVariable("autohide","1");
+		so.addVariable("autoplay","1");
+		so.addVariable("controls","2");
+		so.addVariable("fs","1"); {*//1, which causes the fullscreen button to display*}
+		so.addVariable("modestbranding","1");
+		so.addVariable("rel","0");{*//Values: 0 or 1. Default is 1. This parameter indicates whether the player should show related videos when playback of the initial video ends.*}
+		so.addVariable("showinfo","0");
+		so.addVariable("theme","light");
+		so.addParam("allowfullscreen","true");
+		so.addParam("wmode","transparent");
+		so.addParam("menu","true");
+		so.write("mediaspace");
+	</script>
+{else}
+
+	{if $enable_player_playlist}
+
+	<script type="text/javascript">
+		var so = new SWFObject("player/player.swf","mpl","600","600","8");
+		so.addParam("allowscriptaccess","always");
+		so.addParam("allowfullscreen","true");
+		so.addParam("wmode","transparent");
+		so.addParam("flashvars","file={$player_file}{$player_skin}{if $enable_player_colors}{$player_colors}{/if}{$player_longtail_param}{if $player_custom_plugins_detail_playlist}{$player_custom_plugins_detail_playlist}{/if}");
+		so.write("mediaspace");
+	</script>
+
+	{else}
+
+
+	<script type="text/javascript">
+		var so = new SWFObject("player/player.swf","mpl","600","400","9");
+		so.addParam("allowscriptaccess","always");
+		so.addParam("allowfullscreen","true");
+		so.addParam("wmode","transparent");
+		
+		so.addVariable('file','http://www.youtube.com/watch?v={$id}');
+		so.addVariable('backcolor','{$player_backcolor}');
+		so.addVariable('frontcolor','{$player_frontcolor}');
+		so.addVariable('lightcolor','{$player_lightcolor}');
+		so.addVariable('screencolor','{$player_screencolor}');
+		so.addVariable('autostart','{$player_autostart}');
+		
+		so.addVariable('skin','{$player_skin}');
+		{if $longtail_channel != ''}
+			so.addVariable('plugins','ltas');
+			so.addVariable('ltas.cc','{$longtail_channel}');
+		{/if}
+		
+		so.write("mediaspace");
+	</script>
+
+
+	{/if}
+
+{/if}

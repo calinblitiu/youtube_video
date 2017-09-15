@@ -1,0 +1,47 @@
+{php}
+
+$ts = time();
+
+{/php}
+
+<script language="JavaScript">
+<!--
+ts = {php} echo $ts; {/php};
+-->
+</script>
+
+
+<div id="commentPost">
+<form name="commentForm" id="commentForm" action="ajax/form.comment.php" onSubmit="submitForm(this,'', 'comments', '{$id}'); return false;" method="post">
+<input type="hidden" name="vid" value="{$id}">
+<table>
+
+<tr>
+
+	<td valign="top"><span>{$lang_guest_name}:</span></td>
+	<td><input type="text" name="guest"></td>
+
+</tr>
+<tr>
+
+	<td valign="top"><span>{$lang_comment}:</span></td>
+	<td><textarea name="comment" rows="5" cols="40"></textarea></td>
+
+</tr>
+{if $is_display_captcha == 1}
+<tr>
+	<td><img id="__code__" src="lib/validator/code.php?id={php} echo $ts; {/php}" style="border:1px solid #000000" /></td>
+	<td><input type="text" name="code" /><a href="#" onclick="getNewImgCode('{$website_url}','__code__'); return false;">{$lang_click_for_new_code}</a></td>
+</tr>
+{/if}
+<tr>
+
+	<td></td>
+	<td><input type="submit" value="{$lang_submit}"></td>
+
+</tr>
+</table>
+
+</form>
+</div>
+<br clear="all">

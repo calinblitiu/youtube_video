@@ -1,0 +1,12 @@
+<div class="video_thumb_item">
+	  <a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html"><img src="{$videos[i].thumbnail.2}" alt="{$videos[i].title}" onmouseout="mouseOutImage(this, '4', 'FFFFFF', {$videos[i].is_filtered})" onmouseover="mousOverImage(this,'{$videos[i].id}',1, '4','DD424E', {$videos[i].is_filtered})" /></a>
+	  <div class="video-time"><span class="span-video-time">{$videos[i].minute_format}</span></div>
+      <div><a href="video/{$videos[i].id}/{$videos[i].title|seotitle}.html" title="{$videos[i].title}">{$videos[i].short_title}</a></div>
+	  <div class="video-views">{$videos[i].view_count} {$lang_views}</div>
+	  <div class="rating_bar">
+			<div style="width:{$videos[i].rating_avg}%"></div>
+		</div>
+	  <div class="video-views"><a href="{$videos[i].author_url}" title="{$videos[i].author}">{$videos[i].short_author}</a></div>
+		
+
+</div>

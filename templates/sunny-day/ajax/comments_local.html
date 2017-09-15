@@ -1,0 +1,40 @@
+{section loop=$local_comments name=j}
+{if $smarty.section.j.index < $local_comments.total}
+	{if $smarty.section.j.index is even}
+	<div class="comm2"> 
+		<span class="comm2Top">
+			<span class="comm2Bg">
+				<span class="image">
+					<img src="{$local_comments[j].avatar}" width="80" height="80" />
+				</span>
+				<span class="text">
+					on {$local_comments[j].posted|date_format}<br />
+					<span style="color:#05719F">{$local_comments[j].user}</span> {$lang_says}:<br />
+					
+					{$local_comments[j].comment}					{if $local_comments[j].remove}<p class="deleteLink">{$local_comments[j].remove}</p>{/if}
+				</span>
+			</span>
+		</span>
+	</div>
+	{else}
+	<div class="comm"> 
+		<span class="commTop">
+			<span class="commBg">
+				<span class="image">
+				<img src="{$local_comments[j].avatar}" width="80" height="80" />
+				</span>
+			<span class="text">
+				on {$local_comments[j].posted|date_format}<br />
+				<span style="color:#05719F">{$local_comments[j].user}</span> {$lang_says}:<br />
+				
+				{$local_comments[j].comment}				{if $local_comments[j].remove}<p class="deleteLink">{$local_comments[j].remove}</p>{/if}
+				</span>
+			</span>
+		</span>
+	</div>
+	{/if}
+{/if}
+{/section}
+<div class="pagination" style="margin-bottom:10px;">
+	{$local_comments.pagination}
+</div>

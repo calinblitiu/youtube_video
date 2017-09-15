@@ -1,0 +1,78 @@
+{if $addthis_enabled == true}
+<center>
+<p align="center" class="mt_10">
+
+	{if $addthis_style == 1}
+	
+	<div class="addthis_toolbox addthis_default_style " style="display:block">
+	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+	<a class="addthis_button_tweet"></a>
+	<a class="addthis_button_pinterest_pinit"></a>
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid={$addthis_profile_id}"></script>
+	
+	{elseif $addthis_style == 2}
+	
+	<div class="addthis_toolbox addthis_default_style">
+	<a class="addthis_button_preferred_1"></a>
+	<a class="addthis_button_preferred_2"></a>
+	<a class="addthis_button_preferred_3"></a>
+	<a class="addthis_button_preferred_4"></a>
+	<a class="addthis_button_compact"></a>
+	<a class="addthis_counter addthis_bubble_style"></a>
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid={$addthis_profile_id}"></script>
+	
+	{elseif $addthis_style == 3}
+	
+	<div class="addthis_toolbox addthis_default_style addthis_32x32_style" style="width:300px;">
+	<a class="addthis_button_preferred_1"></a>
+	<a class="addthis_button_preferred_2"></a>
+	<a class="addthis_button_preferred_3"></a>
+	<a class="addthis_button_preferred_4"></a>
+	<a class="addthis_button_compact"></a>
+	<a class="addthis_counter addthis_bubble_style"></a>
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid={$addthis_profile_id}"></script>
+	
+	{elseif $addthis_style == 4}
+
+    <div class="addthis_toolbox addthis_floating_style addthis_counter_style" style="left:50px;top:50px;">
+    <a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
+    <a class="addthis_button_tweet" tw:count="vertical"></a>
+    <a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
+    <a class="addthis_counter"></a>
+    </div>
+    <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid={$addthis_profile_id}"></script>
+
+	{elseif $addthis_style == 5}
+
+    <div class="addthis_toolbox addthis_floating_style addthis_32x32_style" style="left:50px;top:50px;">
+    <a class="addthis_button_preferred_1"></a>
+    <a class="addthis_button_preferred_2"></a>
+    <a class="addthis_button_preferred_3"></a>
+    <a class="addthis_button_preferred_4"></a>
+    <a class="addthis_button_compact"></a>
+    </div>
+    <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid={$addthis_profile_id}"></script>
+
+	{elseif $addthis_style == 6}
+
+    <div class="addthis_toolbox addthis_floating_style addthis_16x16_style" style="left:50px;top:50px;">
+    <a class="addthis_button_preferred_1"></a>
+    <a class="addthis_button_preferred_2"></a>
+    <a class="addthis_button_preferred_3"></a>
+    <a class="addthis_button_preferred_4"></a>
+    <a class="addthis_button_compact"></a>
+    </div>
+    <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid={$addthis_profile_id}"></script>
+
+	{elseif $addthis_style == 7}
+	<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid={$addthis_profile_id}"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a>
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid={$addthis_profile_id}"></script>
+	{/if}
+	
+</p>
+</center><br>
+{/if}

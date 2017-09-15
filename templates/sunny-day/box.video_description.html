@@ -1,0 +1,52 @@
+<div class="video_description">
+	<!-- google_ad_section_start -->
+  <p id="short_desc" style="display:block;" class="justify_p">{$short_description} <a href="#" onclick="toggleDesc(); return false;">{$lang_more}</a></p>
+  <!-- google_ad_section_end -->
+  <p id="long_desc" style="display:none;" class="justify_p">{$description} <a href="#" onclick="toggleDesc(); return false;">{$lang_less}</a></p>
+  <div class="desc_username" title="Visit {$author}'s Channel">
+		<a href="{$website_url}profile/{$author}/" title="Visit {$author}'s Channel"><img class="channelIcon" src="{$theme_base}/images/profile.gif" title="{$username} Channel" border="0" style="float:left;margin-right:10px;"></a>
+		<a href="{$website_url}profile/{$author}/" title="Visit {$author}'s Channel"><div class="username">{$author}</div></a>
+  </div>
+  <div style="clear:both;"></div>
+  <p><span>{$lang_added}</span> {$published|date_format} &nbsp; 
+  <p><span>{$lang_channel}</span> {$category} </p>
+  <p><span>{$lang_duration}</span> {math equation="floor(x / 60)" x=$duration}:{math equation="x % 60" x=$duration} &nbsp; | &nbsp; <span>{$lang_views}</span> {$view_count}</p> 
+  {if $local_comments_enabled}<p><span>{$lang_local_comments}</span> <a href="video/{$id}/{$title|seotitle}.html#comments" id="comments_count1">{$totalLocalComments}</a>{/if}</p>
+  {if $youtube_comments_enabled}<p><span>{$lang_youtube_comments}</span> <a href="video/{$id}/{$title|seotitle}.html#comments">{$totalYoutubeComments}</a>{/if}</p>
+  {if $rating_num_raters}
+  <p><strong>{$lang_rating}:</strong>
+	{if $rating_num_raters == ""}
+		{assign var="raters" value="0"}
+	{else}
+		{assign var="raters" value=$rating_num_raters}
+	{/if}
+				
+	{if $rating_average == ""}
+		{assign var="rating" value="0"}
+	{else}
+		{assign var="rating" value=$rating_average}
+	{/if}
+	{math assign="onStars" equation="floor(x)" x=$rating}
+	{math assign="offStars" equation="5-x" x=$onStars}
+	{section name=on_stars loop=$onStars}
+			<img src="{$theme_base}/images/star_big_on.png" width="15"/>
+	{/section}
+	{section name=off_stars loop=$offStars}
+						
+	{/section}
+  </p>
+  {/if}
+  {if $tags_enabled == 'true'}
+  <hr noshade/>
+  <p><span>{$lang_tags}</span>
+	<!-- google_ad_section_start -->
+    {section loop=$keywords name=l}
+      <a href="{$keywords[l].keyword|urlencode}/">{$keywords[l].keyword}</a>&nbsp;
+    {/section}
+	<!-- google_ad_section_end -->
+  </p>
+  {/if}
+  <hr noshade/>
+  <p><span>{$lang_permalink}:</span><br><input onclick="selectAll('input_permalink')" id="input_permalink" type="text" value="{$permalink}" style="width:300px;" readonly> </p> 
+
+</div>

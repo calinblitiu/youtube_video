@@ -1,0 +1,24 @@
+
+<div class="search">
+<form method="get" action="list.php">
+	<table cellpadding="0" cellspacing="0">
+      <tr>
+		<td width="28"><img src="{$theme_base}images/search.jpg" style="margin:0 3px 3px 1px;" title="search" border="0"></td>
+        <td valign="top" >
+            <input type="text" name="q" size="31" maxlength="255"  onfocus="if(this.value=='{$lang_search_for_videos}') this.value='';" onblur="if(this.value=='') this.value='{$lang_search_for_videos}';" value="{if $keyword}{$keyword}{else}{$lang_search_for_videos}{/if}"  title="{$lang_when_you_need_to_type_english}" alt="{$lang_search_for_videos}" id="search"/>
+ 			<div id="filter">
+			<div class="search-setting-inner">
+				<div class="search-section">
+				<span class="search-filter">
+					<div id="search-filter-status-button" title="Filter videos that may not be suitable for minors" onclick="setSafeSearchPref()" {if $default_filter_value == 'on'}class="ovalbutton"{else}class="ovalbutton_off"{/if}>{$filterStatusButton}</div>
+				</span>
+				</div>
+			</div>
+			</div>
+            <input name="sa" type="image" id="searchbutton" value="" src="{$theme_base}images/go_BTN.png"/>
+			<input id="search-filter-hiddenInput" type="hidden" value="{$filterValue}" name="filter">
+		</td>
+      </tr>
+	</table>
+</form>
+</div>

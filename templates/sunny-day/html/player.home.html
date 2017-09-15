@@ -1,0 +1,27 @@
+{if $youtube_player}
+<script type="text/javascript">
+
+// https://developers.google.com/youtube/player_parameters *}
+	var so = new SWFObject("http://www.youtube.com/v/{$first_video_id}?fs=1&amp;rel=0", "youtube", "600", "420", "2", "#000000");{*// We can play with the player sizes too http://support.google.com/youtube/bin/answer.py?hl=en&answer=178264 , theres also chromeless player. *}
+	so.addVariable("autohide","1");
+	so.addVariable("autoplay","1");
+	so.addVariable("controls","2");
+	so.addVariable("fs","1"); {*//1, which causes the fullscreen button to display*}
+	so.addVariable("modestbranding","1");
+	so.addVariable("rel","0");{*//Values: 0 or 1. Default is 1. This parameter indicates whether the player should show related videos when playback of the initial video ends.*}
+	so.addVariable("showinfo","0");
+	so.addVariable("theme","light");
+	so.addVariable("autoplay","1");
+	so.addParam("allowfullscreen","true");
+	so.write("mediaspace");
+</script>
+{else}
+<script type="text/javascript">
+	var so = new SWFObject("player/player.swf?kdfkdkfd","mpl","935","420","8");
+	so.addParam("allowscriptaccess","always");
+	so.addParam("allowfullscreen","true");
+	so.addParam("wmode","transparent");
+	so.addParam("flashvars","file={$player_file}{$player_skin}{if $enable_player_colors}{$player_colors}{/if}{$player_longtail_param}{if $player_custom_plugins_home}{$player_custom_plugins_home}{/if}");
+	so.write("mediaspace");
+</script>
+{/if}

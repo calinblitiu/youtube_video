@@ -1,0 +1,800 @@
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[20-Aug-2017 22:22:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[20-Aug-2017 22:22:19 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[21-Aug-2017 04:50:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[21-Aug-2017 04:50:48 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[24-Aug-2017 23:25:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[24-Aug-2017 23:25:06 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[25-Aug-2017 11:56:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[25-Aug-2017 11:56:15 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[25-Aug-2017 14:55:41 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[25-Aug-2017 14:55:41 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:41 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[25-Aug-2017 14:55:42 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[25-Aug-2017 14:55:42 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[25-Aug-2017 14:55:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[25-Aug-2017 14:55:43 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[26-Aug-2017 11:35:32 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[26-Aug-2017 11:35:33 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[26-Aug-2017 11:35:33 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[26-Aug-2017 11:35:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[26-Aug-2017 11:35:35 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 01:48:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 01:48:25 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 01:48:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:26 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 01:48:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:27 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 01:48:28 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 01:48:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 01:48:30 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 01:48:31 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 01:48:31 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 19:09:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:36 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 19:09:37 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 19:09:37 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 19:09:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 19:09:38 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 19:09:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[28-Aug-2017 19:09:39 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[28-Aug-2017 19:09:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[28-Aug-2017 19:09:40 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[29-Aug-2017 06:10:59 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[29-Aug-2017 06:11:00 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[29-Aug-2017 06:11:00 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[29-Aug-2017 06:11:01 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[29-Aug-2017 06:11:01 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[29-Aug-2017 06:11:02 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[29-Aug-2017 06:11:02 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[29-Aug-2017 06:11:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[29-Aug-2017 06:11:03 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[29-Aug-2017 06:11:04 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[29-Aug-2017 06:11:04 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[29-Aug-2017 06:11:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[29-Aug-2017 06:11:05 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[29-Aug-2017 06:11:06 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[30-Aug-2017 00:59:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[30-Aug-2017 00:59:23 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[30-Aug-2017 00:59:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[30-Aug-2017 00:59:24 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[30-Aug-2017 00:59:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[30-Aug-2017 00:59:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:25 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[30-Aug-2017 00:59:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:26 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[30-Aug-2017 00:59:27 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[30-Aug-2017 00:59:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[30-Aug-2017 00:59:28 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[01-Sep-2017 06:09:33 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[01-Sep-2017 06:09:33 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[01-Sep-2017 11:42:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[01-Sep-2017 11:42:19 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[01-Sep-2017 17:39:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[01-Sep-2017 17:39:10 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[01-Sep-2017 17:39:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[01-Sep-2017 17:39:22 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[01-Sep-2017 17:39:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[01-Sep-2017 17:39:27 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[01-Sep-2017 17:39:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[01-Sep-2017 17:39:30 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[01-Sep-2017 17:47:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[01-Sep-2017 17:47:48 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 00:19:42 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[02-Sep-2017 00:19:42 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 00:20:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[02-Sep-2017 00:20:05 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 05:19:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[02-Sep-2017 05:19:10 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 05:19:17 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 05:19:17 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 05:19:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[02-Sep-2017 05:19:20 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 05:19:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 05:19:21 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 05:19:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 05:19:23 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[02-Sep-2017 07:28:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[02-Sep-2017 07:28:26 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 01:07:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 01:07:22 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 13:38:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 13:38:51 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 13:43:25 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 13:43:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 13:43:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[04-Sep-2017 13:43:26 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 13:43:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[04-Sep-2017 13:43:27 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 22:49:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[04-Sep-2017 22:49:20 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 22:49:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:35 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 22:49:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 22:49:39 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 22:49:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined variable: data in /home/ytapeawp/Public_CodeZem/lib/services.php on line 795
+[04-Sep-2017 22:49:43 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 22:49:50 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 22:49:50 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[04-Sep-2017 22:49:53 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[04-Sep-2017 22:49:53 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[05-Sep-2017 09:14:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158
+[05-Sep-2017 09:14:44 America/New_York] PHP Notice:  Undefined variable: q in /home/ytapeawp/Public_CodeZem/m/templates/default/header.php on line 35
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Use of undefined constant ’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’ - assumed '’0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ’' in /home/ytapeawp/Public_CodeZem/init.php on line 273
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Uninitialized string offset: 68 in /home/ytapeawp/Public_CodeZem/init.php on line 275
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: acttion in /home/ytapeawp/Public_CodeZem/lib/modules/categories/module.php on line 4
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: ads_468 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 39
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: ads_728 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 40
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: ads_300 in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 41
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: text in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 87
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: entities in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 5
+[05-Sep-2017 09:14:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 7
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 88
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: user in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined index: id_str in /home/ytapeawp/Public_CodeZem/lib/modules/twitter/module.php on line 89
+[05-Sep-2017 09:14:57 America/New_York] PHP Notice:  Undefined variable: flickr_auto_kword in /home/ytapeawp/Public_CodeZem/lib/assign_global_vars.php on line 158

@@ -1,0 +1,16 @@
+<div class="share_widget">
+	<textarea style="display:none;" onclick="selectAll('textarea_embed')" id="textarea_embed"><a href="{$permalink}">{$title}</a><br><br><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/{$id}&rel=1&border=0"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/{$id}&rel=1&border=0&autoplay=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object><br><br>More Videos at <a href="{$url_base}" target="blank">{$website_name}</a></textarea>
+	<div id="divWildfirePost"></div>
+	<script src="http://cdn.gigya.com/wildfire/js/wfapiv2.js"></script>
+	{literal}
+	<script>
+		var pconf={
+		widgetTitle: 'prismotube', 
+		includeShareButton: 'true', 
+		defaultContent: 'textarea_embed', 
+		UIConfig: '<config><display showDesktop="false" showEmail="true" showBookmark="true"></display><body><background background-color="#000000" gradient-color-begin="#000000" gradient-color-end="#C6C2B6" corner-roundness="10"></background></body></config>'};
+		Wildfire.initPost('292191', 'divWildfirePost', 625, 250, pconf);
+	</script>
+	{/literal}	
+			
+</div>

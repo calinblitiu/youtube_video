@@ -1,0 +1,31 @@
+{if $total > 0}<span class="page">{$lang_page}: {$curr_page} {$lang_of} {$total}</span>{/if}
+{if $showOrder}
+	<div class="orderBy">
+		<label for="my-dropdown2" class="order">{$lang_order_by}: &nbsp;</label>
+		<div id="win-xp" class="selCont">
+			<select id="order-list" name="my-dropdown2">
+				{foreach from=$options_sort_by key=idx_key item=idx_option}
+					<option {if $orderby == $idx_option.key} selected {/if} value="{if $cid}categories/{else}tag/{/if}{$keyword|seotitle}/{if $cid}{$cid}/{/if}orderby-{$idx_option.key}/page1.html">{$idx_option.desc}</option>
+				{/foreach}
+			</select>
+		</div>
+	</div>
+	{elseif $showTime}
+	<div id="list_time">
+		{$lang_time}: &nbsp;
+		{if $time}
+		<a {if $time == "today"}class="selected"{/if} href="feed/time-today/{$feed_id}.html">{$lang_today}</a> |
+		<a {if $time == "this_week"}class="selected"{/if} href="feed/time-this_week/{$feed_id}.html">{$lang_this_week}</a> |
+		<a {if $time == "this_month"}class="selected"{/if} href="feed/time-this_month/{$feed_id}.html">{$lang_this_month}</a> |
+		<a {if $time == "all_time"}class="selected"{/if} href="feed/time-all_time/{$feed_id}.html">{$lang_all_time}</a>
+		{else}
+			{$feed_title}
+		{/if}
+	</div>
+{/if}
+
+<div id="list_mode">
+	{$lang_display}: &nbsp;
+	<a href="#" onclick="setDisplay('list'); return false;" id="button_list" title="{$lang_list_view}"><img src="{$theme_base}images/list_view.gif"/></a>
+	<a href="#" onclick="setDisplay('grid'); return false;" id="button_grid"title="{$lang_grid_view}"><img src="{$theme_base}images/grid_view.gif"/></a>
+</div>
