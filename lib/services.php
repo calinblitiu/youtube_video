@@ -252,14 +252,21 @@ function YT_ListByKeyword($keyword, $page=1, $orderby = "", $is_search = false, 
 	}
 
 	if ( defined('IS_MOBILE') && IS_MOBILE ) {
+		// $req = "http://gdata.youtube.com/feeds/mobile/videos?v=3&alt=jsonc&format=1".$language_param.
+		// 	"&start-index={$start_index}".
+		// 	"&max-results={$config['list_per_page']}".$reqExtra.$config['youtube_extra_params']."&q={$keyword}";
 		$req = "http://gdata.youtube.com/feeds/mobile/videos?v=2&alt=jsonc&format=1".$language_param.
 			"&start-index={$start_index}".
 			"&max-results={$config['list_per_page']}".$reqExtra.$config['youtube_extra_params']."&q={$keyword}";
 	} else {
-		$req = "http://gdata.youtube.com/feeds/api/videos?v=2&alt=jsonc&format=5".$language_param.
-			"&start-index={$start_index}".
-			"&max-results={$config['list_per_page']}".$reqExtra.$config['youtube_extra_params']."&q={$keyword}";
+		// $req = "http://gdata.youtube.com/feeds/api/videos?v=2&alt=jsonc&format=5".$language_param.
+		// 	"&start-index={$start_index}".
+		// 	"&max-results={$config['list_per_page']}".$reqExtra.$config['youtube_extra_params']."&q={$keyword}";
+
+		$req = "https://www.googleapis.com/youtube/v3/search?part=id&q=messi&type=video&key=AIzaSyB2YP4Uh1ZaLBZ4s5Idz9QKfzEvEcHJKpM";
 	}
+
+	
 	
 	if ( trim($config['yt_developer_key']) != '' ) {
 		$req	.= "&key=".$config['yt_developer_key'];
@@ -267,8 +274,10 @@ function YT_ListByKeyword($keyword, $page=1, $orderby = "", $is_search = false, 
 	
 	//echo '<!-- '.$req.' -->';
 
+
 	if($config['xml_cache_enable']) {
-		$data	= YT_JSON_RespCache($req);
+		//$data	= YT_JSON_RespCache($req);
+		$data 	= REST_Request($req);
 	}
 	else {
 		$data 	= REST_Request($req);
@@ -280,7 +289,7 @@ function YT_ListByKeyword($keyword, $page=1, $orderby = "", $is_search = false, 
 		global $json;
 		$data_videos	= $json->decode($data);
 	}
-
+	var_dump($data_videos);
 	return $data_videos;
 }
 

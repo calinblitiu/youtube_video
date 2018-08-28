@@ -47,9 +47,11 @@ if ( $_GET['fid'] == 'most_linked' || $_GET['fid'] == 'recently_featured' ) {
 	}
 	$total_videos	= YT_Total_Videos($data_videos);
 	$videos			= YT_Videos($data_videos);
+	var_dump($videos);
 	
 } else {
 	$VideoLists	= Videos::FindVideoList($_GET['fid'], $config['list_per_page'], $time);
+	var_dump($VideoLists);
 }
 
 // ################# Start parse xml attributes manually ######################
@@ -128,6 +130,8 @@ if ( $menu_title == 'Top Rated' ) {
 } else if ( $menu_title == 'Recently Featured' ) {
 	$menu_title	= lang('recently_featured');
 } 
+
+var_dump($videos);
 
 $seo_title				= $menu_title;
 
